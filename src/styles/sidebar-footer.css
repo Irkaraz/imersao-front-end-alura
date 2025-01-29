@@ -76,6 +76,8 @@ body {
     text-transform: none;
     background-color: transparent;
     color: #ececec;
+    cursor: pointer;
+
 }
 
 .library .library_content .library_items .library_button .fa {
@@ -137,6 +139,7 @@ body {
     width: 113px;
     justify-content: center;
     margin-top: 12px;
+    cursor: pointer;
 }
 
 .sidebar .cookies {
